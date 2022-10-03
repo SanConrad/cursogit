@@ -1,0 +1,3 @@
+hola archivo2
+linbea2
+linea3
